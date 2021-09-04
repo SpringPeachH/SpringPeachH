@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpringPeachH
-- 👀 I’m interested in AI, Machine Learning
+- 👀 I’m interested in AI, Machine Learning, Data Science
 - 🌱 I’m currently learning Statistics & Computer Science
 - 📫 Email: chuntaohu@yahoo.com
 
